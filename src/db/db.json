@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 674697,
+      "name": "Даниил",
+      "password": "123",
+      "contactList": [
+        {
+          "name": "Daniel",
+          "email": "daniel@mail.ru",
+          "id": 916722
+        },
+        {
+          "name": "Lera",
+          "email": "lera@mail.ru",
+          "id": 966524
+        },
+        {
+          "name": "Fira",
+          "email": "fira@mail.ru",
+          "id": 230272
+        },
+        {
+          "name": "Anna",
+          "email": "anna@mai.com",
+          "id": 997530
+        },
+        {
+          "name": "Tanya",
+          "email": "tanya@yandex.ru",
+          "id": 642581
+        },
+        {
+          "name": "Lera Rycova",
+          "email": "valery@yandex.ru",
+          "id": 72578
+        }
+      ]
+    },
+    {
+      "id": 541610,
+      "name": "Фира",
+      "password": "fira@yandex.ru",
+      "contactList": [
+        {
+          "name": "Daniel",
+          "email": "daniil@yandex.ru",
+          "id": 169996
+        },
+        {
+          "name": "Daniel",
+          "email": "lera@email.com",
+          "id": 262427
+        },
+        {
+          "name": "Anna",
+          "email": "daneelzam@yandex.ru",
+          "id": 325388
+        }
+      ]
+    }
+  ]
+}
